@@ -3,6 +3,6 @@ spring:
     oauth2:
       client:
         registration:
-          github:
+          google:
             clientId: <id-here>
             clientSecret: <secret-here>
